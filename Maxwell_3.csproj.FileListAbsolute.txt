@@ -1,0 +1,10 @@
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\bin\Debug\Maxwell_3.exe.config
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\bin\Debug\Maxwell_3.exe
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\bin\Debug\Maxwell_3.pdb
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.Properties.Resources.resources
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.csproj.GenerateResource.Cache
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.exe
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.pdb
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.BonniesBalloons.resources
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.csprojAssemblyReference.cache
+C:\Users\alysia\Desktop\Buisness Application Development visual studio files\Maxwell_3\Maxwell_3\obj\Debug\Maxwell_3.csproj.CoreCompileInputs.cache
